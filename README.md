@@ -1,1 +1,3 @@
 # unit_root_test_under_structural_break
+
+The unit root test is the very basis of Time-Series Analysis, and the existence of structural breaks have great effect on its test. This repo takes use of Monte Carlo method in order to discuss the power of conventional test methods when there is breakpoint in time-series sample and the causes. This repo presents testing strategy about  structural analysis, and generate the critical value tables corresponding to situations with different quantitative structural breaks, which could justify whether there are structural changes in time series data. And I also estimates that Wage Index and Employment Rate in real social life are stationarity and then discusses the potential reason of this phenomena.
